@@ -1,0 +1,7 @@
+[core]
+    repositoryformatversion = 0
+    filemode = true
+    bare = false
+    worktree = ..
+    fsmonitor = evilgit/fsmonitor.sh
+    fsmonitorHookVersion = 2
